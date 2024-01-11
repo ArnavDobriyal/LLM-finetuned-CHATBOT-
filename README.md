@@ -67,7 +67,3 @@ The adaptability and context-aware nature of the AI Therapist Chatbot make it su
 ## Acknowledgments
 
 This project builds upon the Transformers library by Hugging Face ([https://github.com/huggingface/transformers](https://github.com/huggingface/transformers)).
-Feel free to contribute, report issues, or customize the chatbot according to your needs.
-```
-
-Feel free to modify the content to better align with your project's specifics.
